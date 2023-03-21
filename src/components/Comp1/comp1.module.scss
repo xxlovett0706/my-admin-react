@@ -1,0 +1,8 @@
+.root {
+  background-color: pink;
+  :global {
+    .title {
+      color: yellow;
+    }
+  }
+}
